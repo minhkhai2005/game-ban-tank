@@ -1,5 +1,10 @@
 # game-ban-tank
 ### Installation
- ```bash
- git clone https://github.com/ten-kho-luu-tru
+Pygame is required:
+```bash
+pip install pygame
+```
+or 
+```bash
+pip3 install pygame
 ```
